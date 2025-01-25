@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Responsive Navigation Menu for FitnessPro
 
 ### Overview
@@ -91,4 +90,3 @@ This project implements a responsive navigation menu for the FitnessPro website,
 =======
 # creating_a_responsive_menu
 creating a responsive menu using react JS
->>>>>>> e58a829b4a233f44f333fd55f9930291144c75b8
